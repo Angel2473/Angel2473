@@ -14,7 +14,7 @@ Welcome to my GitHub profile. I'm a passionate developer constantly exploring an
 
 I'm always eager to expand my knowledge, and currently, I'm focused on enhancing my skills in:
 
-- Building scalable web applications using ReactJs, Spring Boot and NodeJs
+- Building scalable web applications using ReactJs and Spring Boot 
 
 
 ## 🤝 Let's Connect
