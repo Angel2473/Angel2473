@@ -1,4 +1,4 @@
-# Hello, I'm Sandhu Babu! 👋
+# Hello, I'm Angel E A! 👋
 
 Welcome to my GitHub profile. I'm a passionate developer constantly exploring and learning new technologies. Here you'll find some of my projects.
 
